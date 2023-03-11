@@ -17,3 +17,5 @@
 - [使字符串平衡的最少删除次数](code/MinimumDeletions.hpp)
 - [得到K个黑块的最少涂色次数](code/MinimumRecolors.hpp)
 - [二进制数转字符串](code/PrintBin.hpp)
+- [使数组和能被P整除](code/MinSubarray.hpp)
+- [字母与数字](code/FindLongestSubarray.hpp)
