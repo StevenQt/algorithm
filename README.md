@@ -19,3 +19,4 @@
 - [二进制数转字符串](code/PrintBin.hpp)
 - [使数组和能被P整除](code/MinSubarray.hpp)
 - [字母与数字](code/FindLongestSubarray.hpp)
+- [和有限的最长子序列](code/AnswerQueries.hpp)
